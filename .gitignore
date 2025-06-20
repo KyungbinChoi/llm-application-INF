@@ -1,2 +1,4 @@
 /Chroma/*
 .env
+/inflearn-lectures/*
+.DS_Store
